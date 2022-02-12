@@ -1,0 +1,13 @@
+.btn {
+    color: red;
+    background-color: rgba(0, 0, 0, .5);
+    border-radius: 2px;
+    font-size: 50px;
+    font-family: 'Comic Sans MS';
+}
+
+#counter {
+    color: green;
+    font-family: 'Comic Sans MS';
+    font-size: 50px;
+}
